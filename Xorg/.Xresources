@@ -1,0 +1,36 @@
+! Define color palette based on Radium theme
+*foreground:   #d4d4d5
+*background:   #101317
+*cursorColor:  #d4d4d5
+
+! Black + DarkGrey
+*color0:       #0a0d11
+*color8:       #191d22
+
+! Red + Pink
+*color1:       #f87070
+*color9:       #ff8e8e
+
+! Green + Vibrant Green
+*color2:       #37d99e
+*color10:      #79dcaa
+
+! Yellow + Sun
+*color3:       #ffe59e
+*color11:      #ffeda6
+
+! Blue + Nord Blue
+*color4:       #7ab0df
+*color12:      #87bdec
+
+! Purple + Dark Purple
+*color5:       #c397d8
+*color13:      #b68acb
+
+! Cyan + Teal
+*color6:       #50cad2
+*color14:      #63b3ad
+
+! Light Grey + White
+*color7:       #525559
+*color15:      #d4d4d5
