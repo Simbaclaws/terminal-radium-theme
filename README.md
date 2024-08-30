@@ -2,6 +2,9 @@
 
 Welcome to the Radium Theme repository! This repository contains color schemes for various terminal applications, applying the sleek and modern Radium theme across different environments. Each terminal's configuration files are tailored to ensure a uniform look and feel that enhances your coding or command-line experience.
 
+## Screenshot
+![Radium Theme Screenshot](./screenshot.png)
+
 ## Supported Terminals
 
 This repository includes color schemes for the following terminals:
