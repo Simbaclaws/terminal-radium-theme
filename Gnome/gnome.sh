@@ -1,3 +1,4 @@
+#!/bin/sh
 # Set Radium theme colors
 gsettings set org.gnome.Terminal.Legacy.Profile:/org/gnome/terminal/legacy/profiles:/:{profile_id}/ background-color '#101317'
 gsettings set org.gnome.Terminal.Legacy.Profile:/org/gnome/terminal/legacy/profiles:/:{profile_id}/ foreground-color '#d4d4d5'
