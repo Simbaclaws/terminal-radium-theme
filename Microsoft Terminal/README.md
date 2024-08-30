@@ -21,27 +21,27 @@ Microsoft Terminal uses a JSON configuration file, which can be accessed directl
 
 ```JSON
 {
-  name: Radium,
-  background: #101317,
-  foreground: #d4d4d5,
-  cursorColor: #d4d4d5,
-  black: #0a0d11,
-  red: #f87070,
-  green: #37d99e,
-  yellow: #ffe59e,
-  blue: #7ab0df,
-  magenta: #c397d8,
-  cyan: #50cad2,
-  white: #525559,
-  brightBlack: #191d22,
-  brightRed: #ff8e8e,
-  brightGreen: #79dcaa,
-  brightYellow: #ffeda6,
-  brightBlue: #87bdec,
-  brightMagenta: #b68acb,
-  brightCyan: #63b3ad,
-  brightWhite: #d4d4d5
-}
+    "name": "Radium",
+    "background": "#101317",
+    "foreground": "#d4d4d5",
+    "cursorColor": "#d4d4d5",
+    "black": "#0a0d11",
+    "red": "#f87070",
+    "green": "#37d99e",
+    "yellow": "#ffe59e",
+    "blue": "#7ab0df",
+    "purple": "#c397d8",
+    "cyan": "#50cad2",
+    "white": "#d4d4d5",
+    "brightBlack": "#191d22",
+    "brightRed": "#ff8e8e",
+    "brightGreen": "#79dcaa",
+    "brightYellow": "#ffeda6",
+    "brightBlue": "#87bdec",
+    "brightPurple": "#b68acb",
+    "brightCyan": "#63b3ad",
+    "brightWhite": "#ffffff"
+},
 ```
 4. Save the changes to `settings.json` and restart Microsoft Terminal to see the Radium theme in action.
 
